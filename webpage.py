@@ -71,7 +71,7 @@ with st.container():
             Enter the world of Google stocks prediction, where the power of time series forecasting, fueled by the prowess of ARIMA(Auto Regressive Integrated Moving Averages) and SARIMAX(Seasonal ARIMA with Exogenous Variables), unlocks the secrets of market trends. Within the depths of historical stock data, these forecasting techniques weave intricate patterns, capturing the essence of Google's journey.
             """
         )
-        st.markdown("[Get the code!](https://github.com/SakshiPorwal/Google-Stock-Prediction/blob/main/Google_ML.ipynb)")
+        st.markdown("[Get the code!](https://github.com/SakshiPorwal/GoogleStocks/blob/main/Google_ML.ipynb)")
 with st.container():
     image_column, text_column = st.columns((1, 2))
     with image_column:
@@ -83,7 +83,7 @@ with st.container():
             The project on "Google stocks prediction using time series forecasting using RNN and LSTM" aims to utilize the power of Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM) cells to predict future prices of Google stocks. By training the model on historical stock data, it can capture complex temporal patterns and relationships, allowing it to make accurate predictions. 
             """
         )
-        st.markdown("[Get the code!](https://github.com/SakshiPorwal/Google-Stock-Prediction/blob/main/Google_DL.ipynb)")
+        st.markdown("[Get the code!](https://github.com/SakshiPorwal/GoogleStocks/blob/main/Google_DL.ipynb)")
 
 # ---- CONTACT ----
 with st.container():
